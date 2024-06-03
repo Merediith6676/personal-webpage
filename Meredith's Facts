@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mere's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffdab9;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            padding: 20px;
+        }
+        .section-title {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        .content {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .flower-sticker {
+            width: 30px;
+            height: 30px;
+            vertical-align: middle;
+        }
+        footer {
+            background-color: #ffdab9;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Mere's World! <img src="https://via.placeholder.com/30x30.png?text=%F0%9F%8C%BB" alt="flower sticker" class="flower-sticker"></h1>
+    </header>
+
+    <section>
+        <div class="section-title">About Me</div>
+        <div class="content">
+            <p>Hi, my name is Mere! I'm interested in music and games like Roblox, Fortnite, and COD. I have ADD (Attention Deficit Disorder), which is pretty much ADHD but without the hyperactivity.</p>
+        </div>
+    </section>
+
+    <section>
+        <div class="section-title">My Favorite Games</div>
+        <div class="content">
+            <h3>Fortnite</h3>
+            <p>Fortnite is a popular battle royale game where players fight to be the last one standing. It features colorful graphics, fun gameplay mechanics, and regular updates that keep the game fresh.</p>
+            <h3>Roblox</h3>
+            <p>Roblox is a platform where users can create and play games created by other users. It's a great place for creativity and has a wide variety of game genres to explore.</p>
+        </div>
+    </section>
+
+    <section>
+        <div class="section-title">Understanding ADD</div>
+        <div class="content">
+            <p>ADD stands for Attention Deficit Disorder. It's a condition that affects one's ability to focus and maintain attention. While it shares similarities with ADHD (Attention Deficit Hyperactivity Disorder), ADD does not include hyperactive behaviors. It's important to understand and manage ADD through strategies such as structured routines, mindfulness practices, and sometimes medication.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mere's Personal Page <img src="https://via.placeholder.com/30x30.png?text=%F0%9F%8C%BB" alt="flower sticker" class="flower-sticker"></p>
+    </footer>
+
+</body>
+</html>
